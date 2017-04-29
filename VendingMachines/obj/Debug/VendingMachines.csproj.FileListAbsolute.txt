@@ -1,0 +1,9 @@
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\bin\Debug\VendingMachines.exe.config
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\bin\Debug\VendingMachines.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\bin\Debug\VendingMachines.pdb
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.csprojResolveAssemblyReference.cache
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.VendingUI.resources
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.Properties.Resources.resources
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.csproj.GenerateResource.Cache
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\A7X\VendingMachines\VendingMachines\obj\Debug\VendingMachines.pdb
